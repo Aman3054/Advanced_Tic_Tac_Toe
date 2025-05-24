@@ -29,4 +29,6 @@ To run this project locally:
    ```bash
    git clone https://github.com/Aman3054/Advanced_Tic_Tac_Toe.git
 2. Navigate to the project directory:
+   ```bash
    cd Advanced_Tic_Tac_Toe
+   
