@@ -31,4 +31,28 @@ To run this project locally:
 2. Navigate to the project directory:
    ```bash
    cd Advanced_Tic_Tac_Toe
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm run dev
+
+Folder Structure 📁
+```bash
+src/
+├── components/
+│   ├── Board.jsx
+│   └── StatusBar.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
+Deployment 🌐
+This project is deployed using Vercel and is live at:
+
+👉 https://advanced-tic-tac-toe-eta.vercel.app
+
+
    
