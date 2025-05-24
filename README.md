@@ -1,13 +1,32 @@
-# React + Vite
+# Advanced Tic Tac Toe 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Advanced Tic Tac Toe is a dynamic and customizable version of the classic Tic Tac Toe game built with React. It allows players to select the board size (from 3x3 to 10x10) and the win length (how many continuous symbols needed to win), making it more interesting and challenging.
 
-Currently, two official plugins are available:
+## Features 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔢 Customizable board size (3x3 to 10x10)
+- 🏆 Set your own win condition (e.g., 4 in a row to win)
+- 🔄 Real-time turn-based gameplay
+- 🧠 Win detection (horizontal, vertical, diagonal, anti-diagonal)
+- 🔁 Reset game anytime
+- 💡 Clean, responsive, and modern UI
 
-## Expanding the ESLint configuration
+## Live Demo 🔗
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Advanced_Tic_Tac_Toe" 
+👉 [Play Now on Vercel](https://advanced-tic-tac-toe-eta.vercel.app)
+
+## Tech Stack 🛠️
+
+- React (with Vite)
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+## Getting Started 🧑‍💻
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aman3054/Advanced_Tic_Tac_Toe.git
+2. Navigate to the project directory:
+   cd Advanced_Tic_Tac_Toe
